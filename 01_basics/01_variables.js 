@@ -1,8 +1,0 @@
-const accountId = 1234
-let accountEmail = "workatiya@google.com"
-var accountPassword = "12345"
-accountCity = "jaipur" 
-
-accountId = 2
-
-console.log(accountId);
